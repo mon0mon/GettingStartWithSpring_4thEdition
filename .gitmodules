@@ -1,0 +1,3 @@
+[submodule "4thEdition"]
+	path = 4thEdition
+	url = https://github.com/getting-started-with-spring/4thEdition
